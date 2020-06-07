@@ -19,17 +19,57 @@
 		body.is-menu-visible & {
 			opacity: 0.15;
 		}
+		
+
+		@include breakpoint(xlarge) {
+			padding: _size(section-spacing);
+			display: Block;
+		}
+
+		@include breakpoint(large) {
+			padding: _size(section-spacing);
+			display: Block;
+
+		}
+
+		@include breakpoint(small) {
+			padding: _size(section-spacing-small);
+		}
+
+		body.single & {
+			display: block;
+		}
+	}
+	
+	#wrapperhome {
+		@include vendor('display', 'flex');
+		@include vendor('flex-direction', 'row-reverse');
+		@include vendor('transition', 'opacity #{_duration(menu)} ease');
+		margin: 0 auto;
+		max-width: 100%;
+		opacity: 1;
+		padding: (_size(section-spacing) * 1.5);
+		width: 90em;
+
+		body.is-menu-visible & {
+			opacity: 0.15;
+		}
+		
 
 		@include breakpoint(xlarge) {
 			padding: _size(section-spacing);
 		}
 
 		@include breakpoint(large) {
-			display: block;
+			padding: _size(section-spacing);
+			display: Flex;
+
 		}
 
 		@include breakpoint(small) {
 			padding: _size(section-spacing-small);
+			display: table;
+			/*flex-flow: column;*/
 		}
 
 		body.single & {

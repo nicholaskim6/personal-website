@@ -1,7 +1,7 @@
 const data = [
   {
     path: '/',
-    label: 'Michael D\'Angelo',
+    label: 'Nick Kim',
     index: true,
   },
   {
@@ -17,12 +17,12 @@ const data = [
     label: 'Projects',
   },
   {
-    path: '/stats',
-    label: 'Stats',
+    path: '/interests',
+    label: 'Interests',
   },
   {
-    path: '/contact',
-    label: 'Contact',
+    path: '/writings',
+    label: 'Writings',
   },
 ];
 

@@ -22,7 +22,7 @@
 
 		.title {
 			text-align: center;
-			margin-bottom: 2em;
+			margin-bottom: 1em;
 		}
 	}
 	.experience {
@@ -38,6 +38,10 @@
 	}
 
 	.jobs-container {
+		h4 {
+		text-transform: Uppercase;
+		}
+	
 		.points {
 			li {
 				margin: 0;
@@ -53,8 +57,12 @@
 			text-align: center;
 		}
 		.course-list {
-			text-align: center;
-
+			text-align: left;
+			font-family: "Raleway", Helvetica, sans-serif;
+			font-size: 0.8em;
+			p {
+				margin-bottom: 0.5em;
+			}
 			h4 {
 				white-space: nowrap;
 			}
@@ -83,22 +91,37 @@
 }
 
 .degree-container {
+	
+	h3 {
+		font-weight: normal;
+	}
+	
 	h4 {
 		font-weight: normal;
 	}
 
+	.school {
+		text-transform: none;
+		padding-top: 0em;
+		margin-bottom: 0em;
+		font-size: .8em;
+	}
+
 	.degree {
-		margin-bottom: .1em;
+		margin-bottom: 0em;
 		text-transform: none;
 		letter-spacing: 0.16em;
 		font-size: .8em;
 	}
-
-	.school {
+	
+	.activities {
+		margin-top: 0.3em;
+		margin-bottom: 0em;
 		text-transform: none;
-		padding-top: 0.3em;
-		margin-bottom: 1em;
+		letter-spacing: 0.16em;
+		font-size: .7em;
 	}
+	
 }
 
 .courses .course-number {

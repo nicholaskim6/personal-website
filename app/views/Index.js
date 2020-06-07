@@ -4,22 +4,22 @@ import { Link } from 'react-router-dom';
 import Main from '../layouts/Main';
 
 const Index = () => (
-  <Main>
+  <Main id>
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2><Link to="/">About this site</Link></h2>
-          <p>A beautiful, responsive, react app written with modern Javascript.</p>
+          <h2><Link to="/">Welcome</Link></h2>
+          <p>A personal website/self-introduction</p>
         </div>
       </header>
-      <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
-        or you can check out my {' '}
-        <Link to="/resume">resume</Link>, {' '}
-        <Link to="/projects">projects</Link>, {' '}
-        view <Link to="/stats">site statistics</Link>, {' '}
-        or <Link to="/contact">contact</Link> me.
+      <p> Welcome to my website. 
+	  This site includes a general <Link to="/about">self-introduction</Link>, {' '}
+      my <Link to="/resume">resume</Link>, {' '}
+      selected <Link to="/projects">projects</Link>, {' '}
+      documentation of my <Link to="/interests">personal interests</Link>, {' '}
+	  and an informal collection of various thoughts <Link to="/writings">(writings)</Link>. {' '}
       </p>
-      <p> Source available <a href="https://github.com/mldangelo/personal-site">here</a>.</p>
+      <p> This <a href="https://github.com/mldangelo/personal-site">website</a> was written with reactJS.</p>
     </article>
   </Main>
 );

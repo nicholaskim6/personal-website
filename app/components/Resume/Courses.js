@@ -22,11 +22,16 @@ const Courses = ({ data }) => (
   <div className="courses">
     <div className="link-to" id="courses" />
     <div className="title">
-      <h3>Selected Courses</h3>
+      <h3>Selected Coursework</h3>
     </div>
     <ul className="course-list">
-      {getRows(data)}
-    </ul>
+      <p> <b>Mathematics</b> - Multivariable Calculus, Linear Algebra, Discrete Mathematics, Optimization, Real Analysis (Fall 2020) </p>
+	  <p> <b>Computer Science</b> - Algorithms and Data Structures, Systems Programming, Fundamentals of Machine Learning</p>
+	  <p> <b>Statistics/Probability</b> - Probability and Stochastic Systems, Simulation, Risk Analysis, Time Series Analysis (Fall 2020)</p>
+	  <p> <b>Quantitative Finance/Economics</b> - High Frequency Trading, Financial Mathematics, Risk Management, Intermediate Microeconomics</p>
+	  <p> <b>Philosophy</b> - Philosophy of Quantum Mechanics, Moral Philosophy, Philosophy of Probability Theory, British Empiricism, Intermediate Epistemology (Fall 2020)</p>
+      <p> <b>Miscellaneous</b> - Physics I/II, Corporate Finance, Accounting, Writing Seminar, Projects in Instrumental Performance</p>
+	</ul>
   </div>
 );
 

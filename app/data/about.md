@@ -1,86 +1,47 @@
 
-#### Intro
-I am a co-founder and the CTO of [Arthena](https://arthena.com) where I work on engineering infrastructure and build tools to price fine art. My primary job functions are as a data scientist and software engineer.
+### Intro
+I'm currently a third year student at Princeton in the Operations Research and Financial Engineering 
+(applied math/stat) program pursuing minors in CS, statistics/ML, and philosophy. 
+I enjoy spending my free time on music, philosophy, history, gaming, and taking long walks.
 <br>
-I am available to consult on interesting projects. I am particularly interested in social impact, education, inclusivity, and space. I enjoy advising companies and may even be available for pro-bono work depending on the time commitment and the project. If you would like to arrange a meeting, I am based in New York but travel to the San Francisco Bay Area frequently.
+<br>
+Profesionally, my current primary interest is in finance with particular emphasis on trading/markets. Additionally, I'm interested in data science
+as well as any roles (quantitative or non-quantitative) that strongly emphasize analytical thinking.
+<br>
+<br>
+My summer internship experiences -
+- __2020 (Cancelled due to COVID-19)__ - Trading intern at [__Belvedere Trading__](http://www.belvederetrading.com/) in Chicago.
+- __2019__ - I was an options trading intern at [__XR Trading__](http://www.xrtrading.com/) in NYC. I worked with a desk focused on event trading, 
+where I wrote Python scripts for event analysis/response, statistically analyzed volatility shock factors, and studied options theory.
+- __2018__ - I was a software engineering/NLP research intern at [__QARASoft__](https://www.qara.ai/) in Seoul, South Korea. I worked on the development
+of a news-based NLP stock prediction tool that would be deployed to KOSHO, a robo-advisor investment app.
 <br><br>
-#### Currently
-At Arthena I have learned how to build teams and manage people, build relationships with customers, sell enterprise products, and build on-line predictive models for production environments. I've also learned how to build and maintain large web applications (see [arthena.com](https://arthena.com)).
+### More on myself
+
+I spend a good amount of time thinking about fairly random things. Open-ended questions/thoughts tend to frequently pop up in my head, and
+I find it stimulating to try to break down and understand these ideas at fundamental, generalizable levels. In addition to thinking about these things on my own, 
+I also enjoy debating them with others when possible. A few topics I frequently find myself thinking about are moral justifications, 
+societal assumptions, and hypothetical explanations. If a thought comes up when I'm busy and can't give it my full attention, 
+I like to record it in a file so that I can revisit it later.
 <br><br>
-#### Some history
-
-- My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
-
-- We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand new Packard Bell. It took years for me to send my first email.
-
-- In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
-
-- At 7, I discovered the mini-games hidden in Microsoft Office. I also beat Minesweeper on expert for the first time.
-
-- At 8, my parents bought me a Sony Mavica MVC-FD71 digital camera after I stole their SLR one too many times. It could fit 10 images to a floppy disk at a 0.3MP resolution. I still have it and it still works. I've been taking photographs ever since, now with a Nikon D750, D800, and occasionally with a Mamiya 6II.
-
-- At 10, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). My website was terrible.
-
-- I was 11 when I built my first [Tesla Coil](https://en.wikipedia.org/wiki/Tesla_coil) (without the permission of my parents). Over the next few years, I built several more including one of the first audio modulated coils and one of the first DRSSTCs.
-
-- When I was 12, I set the all-time high record at my local laser tag facility by reverse engineering the charging station and weapon protocols with a photo-resistor, micro-cassette recorder, and a lot of patience. I was unstoppable.
-
-- At 13, I went to space camp and fell in love. I went back two more times and promised myself that I'd work in space. I've since helped build three generations of satellites and have tangentially worked on two more.
-
-- At 14, I was almost expelled for finding a backdoor into my high school's file server and telling everyone but the faculty members about it. Later that year, I figured out how to turn off the internet firewall by editing system registry keys. I anonymously shared my work months later.
-
-- At 16, I participated in a foreign exchange program in Dortmund, Germany. Since then, I've gone back almost every year.
-
-- 14 - 17, I played a lot of video games. My favorites included Counter Strike Source, Command and Conquer 3, Halo 2, and Age of Empires 3.
-
-- At 18, In the summer before college, my friends and I started playing <a href="https://en.wikipedia.org/wiki/Quidditch_(sport)">Muggle Quidditch</a>. We went on to start over 8 teams in the [International Quidditch Association](https://en.wikipedia.org/wiki/International_Quidditch_Association) including the [Buffalo Quidditch Society](https://www.facebook.com/buffaloquidditch/). At our height, we were ranked third in the IQA. Although I don't play anymore, you can still see pictures of me holding a broom while wearing a chess camp t-shirt on facebook.
-
-- At 19, I took my first graduate course and published my first academic paper.
-
-- At 20, I coauthored a grant to build a satellite and managed a 60+ person team through the end of undergrad. You can read more about that [here](https://ubnl.space/glados/).
-
-You can ask me in person for other stories that I'm afraid to share with the internet.
+I have a strong liking for music. Listening to, playing, and occasionally composing music makes up a significant portion
+of my general enjoyment. I first became involved with music at a young age when I started violin lessons, though I wasn't particularly appreciative
+of what music had to offer until high school. Since then, it's been a constant source of deep enjoyment.
+Some latent related interests I have include algorithmic analysis of music and automated music generation.
 <br><br>
-#### I like
-- Skiing
-- Sailing and the sea
-- Space
-- Summer
-- [Books](https://www.goodreads.com/mdangelo)
-- Colored pencils (Faber-Castell Polychromos)
-- Podcasts ([Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others)
-- [Good design](/)
-- [Photography](https://instagram.com/dangelosaurus)
+Gaming is another favorite pasttime of mine. I mostly enjoy the more competitively-oriented multiplayer games, but also appreciate
+an immersive, story-driven singleplayer game from time to time. History is also fascinating to me, where I particularly appreciate thinking through and attempting to vicariously experience
+the experiences of individuals during historical events.
+<br><br>
 
-#### Travel / Geography
+### Some general ideas I value
 
-- I am from originally from Buffalo, New York. I have since lived in
-Palo Alto, Mountain View, San Francisco, Seattle, and New York.
+- Skepticism, both for your own and others' views
 
-- I've been to ~ 50 countries, some of which I have forgotten, and many of which I would like to revisit.
+- Hesitating to generalize your own specific experiences
 
-- In 2016, I visited: Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
+- Proving views by unsuccessfully attempting to disprove
 
-- In 2017, I visited: Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
+- Acknowledging the complexity of most things
+ 
 
-- In 2018, I visited: Canada, France, Italy, Israel, and the U.K.
-
-- In 2019, I visited: Canada, England, France, and Switzerland. I plan to visit:  Norway.
-
-- I am an Oregon Trail II enthusiast.
-
-#### Fun facts
-
-- I have a list of thousands of ideas, like creating matching bow ties for cats and humans.
-- I almost always have a sketchbook with me.
-- I can't locate every country on a map.
-- I operate a [small angel fund](http://skepticalinvestments.biz/) with terrible returns.
-- I break about 30 traffic laws on an [electric skateboard](https://boostedboards.com/vehicles/shortboards/boosted-mini-x), [onewheel](https://onewheel.com/products/xr), or [bicycle](https://www.citibikenyc.com/) every single day.
-- I added this page because so many people complained that my site was just a resume.
-
-#### I dream of
-
-- always finding inspiration.
-- enabling a brighter future.
-- doing better.
-- no one checking my commit history for early drafts of this file.

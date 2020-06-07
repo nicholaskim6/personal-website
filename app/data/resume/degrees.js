@@ -1,15 +1,12 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
-  }, {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
-  },
+    school: 'PRINCETON UNIVERSITY',
+    degree: 'Operations Research and Financial Engineering',
+	minor: 'Minors in Computer Science, Statistics, and Philosophy',
+	activities: 'Extracurriculars: Orchestra, Esports, Orientation Leading',
+    link: 'https://www.princeton.edu/',
+    year: 2021,
+  }
 ];
 
 export default degrees;

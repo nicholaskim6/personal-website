@@ -24,3 +24,24 @@
 			text-align: center;
 		}
 	}
+	
+	#footer2 {
+		margin-top: 1rem;
+		.icons {
+			color: _palette(fg-light);
+		}
+
+		.copyright {
+			color: _palette(fg-light);
+			font-family: _font(family-heading);
+			font-size: 0.5em;
+			font-weight: _font(weight-heading);
+			letter-spacing: _font(kerning-heading);
+			text-transform: uppercase;
+			margin-top: -1.5rem; 
+		}
+
+		body.single & {
+			text-align: center;
+		}
+	}

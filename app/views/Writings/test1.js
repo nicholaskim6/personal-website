@@ -5,7 +5,7 @@ import ReactMarkdown from 'react-markdown';
 
 import Main from '../../layouts/Main';
 
-import markdown from '../../data/notes/test1.md';
+import markdown from '../../data/writings/test1.md';
 
 const count = markdown.split(/\s+/)
   .map((s) => s.replace(/\W/g, ''))
@@ -16,11 +16,11 @@ const LinkRenderer = ({ ...children }) => <Link {...children} />;
 
 const About = () => (
   <Main>
-    <Helmet title="Notes" />
+    <Helmet title="Writings" />
     <article className="post" id="generalmd">
       <header>
         <div className="title">
-          <h2><Link to="/notes">Notes</Link></h2>
+          <h2><Link to="/writings">Writings</Link></h2>
         </div>
       </header>
       <ReactMarkdown

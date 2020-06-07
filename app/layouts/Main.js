@@ -6,6 +6,7 @@ import ReactGA from 'react-ga';
 
 import Header from '../components/Template/Header';
 import Nav from '../components/Template/Nav';
+import Nav2 from '../components/Template/Nav2';
 
 if (NODE_ENV === 'production') {
   ReactGA.initialize(GA_ID);
@@ -26,15 +27,26 @@ class Main extends Component {
   }
 
   render() {
-    return (
-      <div id="wrapper">
-        <Helmet titleTemplate="%s | Michael D'Angelo" defaultTitle="Michael D'Angelo" />
-        <Header />
-        <div id="main">
-          {this.props.children}
-        </div>
-        {!this.props.fullPage && <Nav />}
-      </div>);
+	if (window.location.pathname !== `${BASE_PATH}/`)
+		return (
+		  <div id="wrapper">
+			<Helmet titleTemplate="%s | Nicholas Kim" defaultTitle="Nicholas Kim" />
+			<Header />
+			<div id="main">
+			  {this.props.children}
+			</div>
+			{!this.props.fullPage && <Nav2 />}
+		  </div>);
+	else
+		return (
+		  <div id="wrapperhome">
+			<Helmet titleTemplate="%s | Nicholas Kim" defaultTitle="Nicholas Kim" />
+			<Header />
+			<div id="main">
+			  {this.props.children}
+			</div>
+			{!this.props.fullPage && <Nav />}
+		  </div>);
   }
 }
 

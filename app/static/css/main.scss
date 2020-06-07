@@ -15,8 +15,8 @@
 */
 
 	@include skel-breakpoints((
-		xlarge: '(max-width: 1680px)',
-		large: '(max-width: 1280px)',
+		xlarge: '(max-width: 2481px)',
+		large: '(max-width: 2480px)',
 		medium: '(max-width: 980px)',
 		small: '(max-width: 736px)',
 		xsmall: '(max-width: 480px)'
@@ -60,9 +60,7 @@
 	@import 'layout/footer';
 	@import 'layout/menu';
 
-	@import 'views/about';
-	@import 'views/contact';
+	@import 'views/generalmd';
 	@import 'views/notFound';
 	@import 'views/resume';
 	@import 'views/skills';
-	@import 'views/stats';
