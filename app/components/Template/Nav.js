@@ -11,7 +11,7 @@ const Nav = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${BASE_PATH}/images/me_icon.jpg`} alt="" />
+        <img src={`$https://nicholaskim6.github.io/{BASE_PATH}/images/me_icon.jpg`} alt="" />
       </Link>
       <header>
         <h2>Nick Kim</h2> 
