@@ -31,7 +31,7 @@
     }
   }
   
-  @media (max-width: 480px) {
+  @media (max-width: 0px) {
     .description {
       position: inherit;
       padding: 0;
@@ -44,16 +44,22 @@
   @include vendor( 'display', 'flex');
   @include vendor( 'flex-direction', 'column');
   background: _palette(bg);
+
   border: solid 1px _palette(border);
   margin: 0 0 _size(element-margin);
-
+  max-width: 43.6em;
+ 
   .image {
     overflow: hidden;
     width: 100%;
+	max-height: 20em;
+	max-width: 43.6em;
 
     img {
       @include vendor( 'transition', 'transform #{_duration(transition)} ease-out');
       width: 100%;
+	  max-height: 20em;
+	  max-width: 43.6em;
     }
 
     &:hover {
@@ -65,13 +71,13 @@
 
   header {
     z-index: 2;
-    @include padding(1.25em, 1.25em, (0, 3em, 0, 0));
+    @include padding(1.25em, 1.25em);
     min-height: 4em;
     position: relative;
     @include vendor( 'flex-grow', '1');
 
     h3 {
-      font-size: 0.7em;
+      font-size: 0.8em;
     }
 
     .published {

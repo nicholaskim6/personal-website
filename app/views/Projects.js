@@ -16,12 +16,14 @@ const Projects = () => (
           <h2><Link to="/projects">Projects</Link></h2>
         </div>
       </header>
+	  <div align = "center">
       {data.map((project) => (
         <Cell
           data={project}
           key={project.title}
         />
       ))}
+	  </div>
     </article>
   </Main>
 );
