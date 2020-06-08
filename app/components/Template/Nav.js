@@ -38,7 +38,7 @@ const Nav = () => (
           </li>
         ))}
       </ul>
-      <p className="copyright"> <Link to="/">nicholaskim.me</Link>.</p>
+      <p className="copyright"> <Link to="/">nicholaskim</Link>.</p>
     </section>
   </section>
 );
