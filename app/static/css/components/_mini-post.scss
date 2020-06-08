@@ -10,15 +10,16 @@
 
   .description {
     position: absolute;
+	width: calc(100% - 0.1em);
+	max-width: 43.5em;
     padding: 0;
-    bottom: 0;
+    bottom: 0.05em;
     border-top: solid 1px _palette(border);
-
     p {
       font-size: 0.9rem;
       margin: 0;
       padding: 1.25em;
-      background-color: rgba(255,255,255,.7);
+      background-color: rgba(255,255,255,0.9);
       color: #3c3b3b;
       font-family: "Raleway", Helvetica, sans-serif;
       z-index: 1000;
@@ -27,7 +28,7 @@
     }
 
     p:hover {
-      background-color: rgba(255,255,255,.9);
+      background-color: rgba(255,255,255,0.9);
     }
   }
   
