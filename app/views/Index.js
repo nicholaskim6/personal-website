@@ -19,7 +19,7 @@ const Index = () => (
       documentation of my <Link to="/interests">personal interests</Link>, {' '}
 	  and an informal collection of various thoughts <Link to="/writings">(writings)</Link>. {' '}
       </p>
-      <p> This <a href="https://github.com/mldangelo/personal-site">website</a> was written with reactJS.</p>
+      <p> This <a href="https://github.com/nicholaskim6/mywebsite">website</a> was written with reactJS.</p>
     </article>
   </Main>
 );
