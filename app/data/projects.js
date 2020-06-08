@@ -4,7 +4,7 @@ const data = [
     title: 'Auto-ble',
     subtitle: '',
     link: 'https://github.com/JulianKnodt/hackprincetonSpring2018',
-    image: 'https://i.imgur.com/u1kuHDy.png',
+    image: 'https://raw.githubusercontent.com/nicholaskim6/personal-website/master/public/images/projects/Autoble.PNG',
     date: '2018-3',
     desc: 'Automatic generation of music. Supervised Learning approach with RNNs and preprocessed chords'
   }
