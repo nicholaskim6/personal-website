@@ -1,6 +1,6 @@
 
 ### Intro
-I'm currently a third year student at Princeton in the Operations Research and Financial Engineering 
+I'm currently a rising senior at Princeton in the Operations Research and Financial Engineering 
 (applied math/stat) program pursuing minors in CS, statistics/ML, and philosophy. 
 I enjoy spending my free time on music, philosophy, history, gaming, and taking long walks.
 <br>
@@ -19,9 +19,9 @@ of a news-based NLP stock prediction tool that would be deployed to KOSHO, a rob
 ### More on myself
 
 I spend a good amount of time thinking about fairly random things. Open-ended questions/thoughts tend to frequently pop up in my head, and
-I find it stimulating to try to break down and understand these ideas at fundamental, generalizable levels. In addition to thinking about these things on my own, 
-I also enjoy debating them with others when possible. A few topics I frequently find myself thinking about are moral justifications, 
-societal assumptions, and hypothetical explanations. If a thought comes up when I'm busy and can't give it my full attention, 
+I find it interesting to break down and try to understand these ideas at fundamental, generalizable levels. In addition to thinking about these things on my own, 
+I also enjoy debating them with others when possible. A few general topics I frequently find myself thinking about are moral justifications, the validity of assumptions,
+and explanations for phenomena. If a thought comes up when I'm busy and can't give it my full attention, 
 I like to record it in a file so that I can revisit it later.
 <br><br>
 I have a strong liking for music. Listening to, playing, and occasionally composing music makes up a significant portion
