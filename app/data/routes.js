@@ -24,6 +24,10 @@ const data = [
     path: '/writings',
     label: 'Writings',
   },
+  {
+    path: '/writings/test1',
+    label: '',
+  },
 ];
 
 export default data;
