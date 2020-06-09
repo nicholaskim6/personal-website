@@ -9,7 +9,7 @@ import morgan from 'morgan';
 
 import routes from './routes';
 
-const port = process.env.PORT || 7999;
+const port = process.env.PORT || 8999;
 const env = process.env.NODE_ENV || 'development';
 const basePath = process.env.BASE_PATH || '/';
 
