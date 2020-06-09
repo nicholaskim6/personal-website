@@ -10,8 +10,9 @@ been better to either have a less intensive music education or perhaps no music 
 <br><br>
 I want to preface the following paragraphs by saying that I'm far from believing that this was 
 anywhere near the worst possible usage of my time and that there's likely much value in vigorously
-committing to even the most random/inconsequential of challenges (with the value coming from the commitment itself so to speak).
-That being said, I think it's still worthwhile to understand the justifiability of such a large and impactful commitment in my life.
+committing to even the most random/inconsequential of challenges (with the value coming from the commitment itself so to speak). I'm also
+quite appreciative of the positive experiences I had as well. That being said, I think it's still worthwhile to understand the 
+overall justifiability of such a large and impactful commitment that's considered by many.
 <br><br>
 Probably the first thing that comes to mind is that being a fairly
 skilled classical musician doesn't seem to have too many "real-world" benefits. It's
