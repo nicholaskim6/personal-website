@@ -19,7 +19,7 @@ not a skill that helps me academically or career-wise, and it's also
 not too socially valuable as an adult. In many ways, its relevance falls 
 off the map quite quickly, both in terms of how much people seem to care about it
 and how much it can benefit you. The majority of my musical friends have hardly 
-touched their instruments since high school, and their immense musical abilities 
+touched their instruments since high school and their immense musical abilities 
 are pretty much relegated to a metaphorical footnote. The most tangible academic/career 
 benefit is that my musical achievements helped me gain college admittances, but 
 it strikes me as one of the more inefficient ways to do so. I would venture to say that
@@ -42,8 +42,8 @@ my enjoyment:pain ratio from violin-related experiences would look truly dismal.
 <br><br>
 Being able to play music for yourself seems like some sort of positive, but that depends on 
 whether you're comfortable and respectful enough of your own playing to enjoy it. It's quite
-infrequently that I play for myself, and when I do, I'm usually end up more focused on playing 
-than trying to enjoy my own music. I would by and large prefer a professional recording
+infrequently that I play for myself, and when I do, I usually end up more focused on playing 
+well than trying to enjoy my own music. I would by and large prefer a professional recording
 if I'm looking to listen, though that does lead into what I might see as a possible redeeming element of my investment in music.
 <br><br>
 One thing that seems to be true is that, one way or another, I've ended up with a deep appreciation for music.
