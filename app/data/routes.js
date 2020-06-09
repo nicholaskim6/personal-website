@@ -33,6 +33,10 @@ const data = [
     path: '/writings/Some_Things_Ive_Learned_from_Philosophy',
     label: '',
   },
+  {
+    path: '/writings/Thoughts_on_My_Music_Education',
+    label: '',
+  },
   
 ];
 

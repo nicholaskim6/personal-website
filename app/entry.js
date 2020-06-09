@@ -14,6 +14,7 @@ import Writings from './views/Writings';
 
 import test1 from './views/Writings/test1';
 import SomeThingsIveLearnedfromPhilosophy from './views/Writings/Some_Things_Ive_Learned_from_Philosophy';
+import ThoughtsonMyMusicEducation from './views/Writings/Thoughts_on_My_Music_Education';
 
 import NotFound from './views/NotFound';
 
@@ -32,6 +33,7 @@ ReactDOM.render(
 	  /* Writings articles */
 	  <Route path="/writings/test1" component={test1} />
 	  <Route path="/writings/Some_Things_Ive_Learned_from_Philosophy" component={SomeThingsIveLearnedfromPhilosophy} />
+	  <Route path="/writings/Thoughts_on_My_Music_Education" component={ThoughtsonMyMusicEducation} />
 	  
       <Route path="/writings" component={Writings} />
       {/* Only useful in development mode */}

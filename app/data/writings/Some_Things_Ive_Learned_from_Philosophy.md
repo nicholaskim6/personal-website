@@ -1,7 +1,7 @@
 
 ### Some Things I've Learned from Philosophy
 
-I spend a sizeable amount of time on philosophy, though a natural
+I spend a sizeable amount of time on philosophy, and a natural
 question that comes up is if doing this is actually useful. While
 there are some pretty clear ways in which thinking through a philosophy/philosophy-esque problem
 ends up being useful in some immediately tangible way, like when one evaluates

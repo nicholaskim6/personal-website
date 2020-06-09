@@ -3,9 +3,9 @@ import { Link } from 'react-router-dom';
 import Helmet from 'react-helmet';
 import ReactMarkdown from 'react-markdown';
 
-import Main from '../layouts/Main';
+import Main from '../../layouts/Main';
 
-import markdown from '../data/writings.md';
+import markdown from '../../data/writings/Thoughts_on_My_Music_Education.md';
 
 const count = markdown.split(/\s+/)
   .map((s) => s.replace(/\W/g, ''))
@@ -23,31 +23,13 @@ const About = () => (
           <h2><Link to="/writings">Writings</Link></h2>
         </div>
       </header>
-	  <div>
-	  <p>Here you can find my informal thoughts/writings on various matters.</p>
-	  <br></br>
-	  <h3>Self</h3>
-	  <p><Link to="/writings/Some_Things_Ive_Learned_From_Philosophy">Some Things I've Learned from Philosophy - (6/8/20)</Link></p>
-	  <p><Link to="/writings/Thoughts_on_My_Music_Education">Thoughts on My Music Education - (6/9/20)</Link></p>
-	  <br></br>
-	  <h3>Philosophy (ish)</h3>
-	  <p>Infinite Regress and the Problem of Induction</p>
-	  <p>Regress and Morality</p>
-	  <p>Egoism Collapsing into Utilitarianism</p>
-	  <br></br>
-	  <h3>Random</h3>
-	  <p>Artificial Elongation of Childhood</p>
-	  </div>
-	  <br></br>
-	  {/*
-     <ReactMarkdown
+      <ReactMarkdown
         source={markdown}
         renderers={{
           Link: LinkRenderer,
         }}
         escapeHtml={false}
       />
-	  */}
     </article>
   </Main>
 );
