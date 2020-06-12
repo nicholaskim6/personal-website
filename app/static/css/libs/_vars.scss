@@ -33,6 +33,19 @@
 
 // Palette.
 	$palette: (
+		bg:							#3b3b3b,
+		bg-alt:						#272727,
+		fg:							#cfcfcf,
+		fg-bold:					#f2f2f2,
+		fg-light:					#b6b6b6,
+		border:						rgba(160,160,160,0.3),
+		border-bg:					rgba(160,160,160,0.075),
+		border-alt:					rgba(160,160,160,0.65),
+		accent:						#4084ff
+	);
+	
+// Palette Light.
+	$paletteLight: (
 		bg:							#ffffff,
 		bg-alt:						#f4f4f4,
 		fg:							#646464,
@@ -41,5 +54,5 @@
 		border:						rgba(160,160,160,0.3),
 		border-bg:					rgba(160,160,160,0.075),
 		border-alt:					rgba(160,160,160,0.65),
-		accent:						#2e59ba
+		accent:						#4084ff
 	);

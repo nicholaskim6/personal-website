@@ -62,7 +62,7 @@ obtaining it might still have been a poor trade.
 Overall, I think my opinion of an intense music education leans somewhat negative. My sense is that
 the majority of the benefits one can get from a music education can come from a non-intensive one, 
 and that more enjoyable and beneficial activities are out there for most people. Perhaps if 
-a child shows genuine passion for their chosen instrument or highly precocious capabilities, it
+a child shows an early, genuine passion for their chosen instrument or highly precocious capabilities, it
 might be worthwhile to pursue more intensive studies. Mostly though, an intensive music education
 is stressful, time-consuming, and difficult while seemingly lacking proportional immediate or future benefit.
 That's not to say that it's a terrible thing to put someone through or the worst decision possible, but
