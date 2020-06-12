@@ -8,27 +8,38 @@ a decent commute), Saturdays of chamber music, group classes, and orchestra at
 the conservatory, and county orchestra on Sundays. I sometimes wonder if this intensity was all worthwhile, and whether it would've
 been better to either have a less intensive music education or perhaps no music education.
 <br><br>
+Overall, I think my opinion of an intense music education leans somewhat negative. My sense is that
+the majority of the benefits one can get from a music education can come from a non-intensive one, 
+and that more enjoyable and beneficial activities are out there for most people. Perhaps if 
+a child shows an early, genuine passion for their chosen instrument or highly precocious capabilities, it
+might be worthwhile to pursue more intensive studies. Mostly though, an intensive music education
+is stressful, time-consuming, and difficult while seemingly lacking proportional immediate or future benefit.
+That's not to say that it's a terrible thing to put someone through or the worst decision possible, but
+my sense is that for most, it's a suboptimal commitment to make.
+<br><br>
 I want to preface the following paragraphs by saying that I'm far from believing that this was 
-anywhere near the worst possible usage of my time and that there's likely much value in vigorously
-committing to even the most random/inconsequential of challenges (with the value coming from the commitment itself so to speak). I'm also
-quite appreciative of the positive experiences I had as well. That being said, I think it's still worthwhile to understand the 
-overall justifiability of such a large and impactful commitment that's considered by many.
+anywhere near the worst possible usage of my time. I'm also
+quite appreciative of the positive experiences I had and the general development I realized from intensely pursuing
+a craft/goal. That being said, I think it's still worthwhile to understand the 
+overall justifiability of such a large, impactful commitment that many consider pursuing, and where it 
+might stand in terms of opportunity cost.
 <br><br>
 Probably the first thing that comes to mind is that being a fairly
 skilled classical musician doesn't seem to have too many "real-world" benefits. It's
 not a skill that helps me academically or career-wise, and it's also 
 not too socially valuable as an adult. In many ways, its relevance falls 
 off the map quite quickly, both in terms of how much people seem to care about it
-and how much it can benefit you. The majority of my musical friends have hardly 
-touched their instruments since high school and their immense musical abilities 
-are pretty much relegated to a metaphorical footnote. The most tangible academic/career 
+and how much it can benefit you. The majority of my musical friends haven't really 
+made much use of their instruments since high school, and their strong musical abilities 
+are more or less a personal footnote. The most tangible academic/career 
 benefit is that my musical achievements helped me gain college admittances, but 
-it strikes me as one of the more inefficient ways to do so. I would venture to say that
-if my objective was college admittance, I could've spent a third of the time I did on music 
-and used the extra 20 or so hours to do many other things that might've both
-given me >= admittance chances and more long term benefits. Perhaps I could've just done something
-like studied math or cs and won academic awards, or perhaps I could've been involved in more
-school organizations and extracurriculars.
+a) the admittance to "elite" over strong public universities is debatable, and b) 
+there are probably much more efficient ways to cater to admissions should you wish to. If the sole objective is college admittance, 
+one could probably gain more ground per unit of effort/time by say, founding interesting organizations/clubs,
+pursuing leadership positions, and having a few creative or interesting flares that are eye-catching
+without requiring huge investment. One might also just be able to say, invest a lot of time into academic studying (for instance, math/coding competitions
+and/or advanced study outside of school) alongside some low-commitment extracurriculars for well-roundedness, 
+which would likely result in similar admissions chances alongside stronger future benefits.
 <br><br>
 In addition to the above concerns regarding practicality, much of the musical experience
 is not all that enjoyable (an opinion of both myself and many of my friends). 
@@ -59,14 +70,8 @@ result of an environmental correlation, or perhaps I could've cultivated a simil
 less intensive music education. Or perhaps this enjoyment is connected, but the opportunity cost of 
 obtaining it might still have been a poor trade.
 <br><br>
-Overall, I think my opinion of an intense music education leans somewhat negative. My sense is that
-the majority of the benefits one can get from a music education can come from a non-intensive one, 
-and that more enjoyable and beneficial activities are out there for most people. Perhaps if 
-a child shows an early, genuine passion for their chosen instrument or highly precocious capabilities, it
-might be worthwhile to pursue more intensive studies. Mostly though, an intensive music education
-is stressful, time-consuming, and difficult while seemingly lacking proportional immediate or future benefit.
-That's not to say that it's a terrible thing to put someone through or the worst decision possible, but
-my sense is that for most, it's a suboptimal commitment to make.
+All in all, I wouldn't neccesarily say I strongly regret my music experiences, and there was definitely some good that came from them.
+That being said, I also wouldn't say there's enough for me to advocate for pursuing this commitment over a number of alternatives.
 
 
 

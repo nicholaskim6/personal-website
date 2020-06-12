@@ -14,10 +14,8 @@ how they cultivate fundamental critical thinking skills. The lessons and takeawa
 from thinking through these problems are often widely applicable, and
 I find myself applying them quite pervasively in everyday thoughts and debates.
 <br><br>
-I might summarize some of the main takeaways that 
-philosophy has introduced/reinforced for me as follows. (And a quick note - I'm 
-not trying to say that these ideas/benefits are in any way exlcusive to philosophy, just
-that philosophy is where I happened to come across them.)
+I'd summarize the main takeaways that 
+philosophy has reinforced for me as follows.
 <br><br>
 __Skepticism__ - In philosophy, you end up coming across many strong arguments
 for things that seem intuitively nonsensical at first. Regularly seeing that disconnect
