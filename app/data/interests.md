@@ -6,9 +6,15 @@ Currently, my music taste is approximately 30% classical, 15% indie rock,
 and 20% other.
 <br>
 <br>
-__Favorite classical composers:__ Chopin, Rachmaninoff, Wagner, Tchaikovsky <br>
+__Favorite classical composers:__ [Chopin](https://www.youtube.com/watch?v=2cv7diE0ZMc), 
+								  [Rachmaninoff](https://www.youtube.com/watch?v=6jclP3RMPs8), 
+								  [Wagner](https://www.youtube.com/watch?v=YjMwDbFng_g), 
+								  [Tchaikovsky](https://www.youtube.com/watch?v=GP_ZoVAvJYk) <br>
 __Favorite classical musicians:__ Krystian Zimmerman, Seong-Jin Cho, Denis Matsuev, Maxim Vengerov<br>
-__Favorite contemporary musicians:__ ELO, Iron Maiden, Kanye, Lamp<br>
+__Favorite contemporary musicians:__ [ELO](https://www.youtube.com/watch?v=BDhJU_cNCZE),
+									[Iron Maiden](https://www.youtube.com/watch?v=kDDSBOCzMUA), 
+									[Kanye](https://www.youtube.com/watch?v=D0MyiOeXX38), 
+									[Lamp](https://www.youtube.com/watch?v=5W9S9la-C6s)<br>
 __Favorite songs/pieces:__ Chopin Ballad 4, Rachmaninoff Concerto 3, Scriabin Fantasie, 
 Firth of Fifth (Genesis), November Rain (GNR), Ghost Town (Kanye) <br>
 <br>
@@ -16,9 +22,12 @@ Firth of Fifth (Genesis), November Rain (GNR), Ghost Town (Kanye) <br>
 I enjoy playing violin, piano, and bass guitar, and much of my teenage and childhood years
 were focused on practicing violin and participating in orchestras/competitions. In 2016,
 I was a member of the [National Youth Orchestra of the USA](https://www.carnegiehall.org/Education/Young-Musicians/National-Youth-Ensembles/NYO-USA/NYO-USA-2016)
-, which I consider to be among my most memorable experiences. From time to time, I also experiment
-with composition.
-<br>
+, which I consider to be among my most memorable experiences.
+<br><br>
+From time to time, I also experiment
+with composition. Below is a recent original work of mine, inspired by orchestral film scores.
+<br><br>
+<iframe width="95%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/839655961%3Fsecret_token%3Ds-FFfpphR9RQ6&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"></div>
 <br><br>
 
 ### Philosophy
