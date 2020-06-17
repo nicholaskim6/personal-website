@@ -14,6 +14,7 @@
 
 .hamburger-ul {
   display: block;
+  outline:none;
 
   li a h3 {
     border: 0;
@@ -28,6 +29,7 @@
 
   li {
     display: block !important;
+    outline:none;
   }
 
   h3 {
