@@ -12,13 +12,17 @@
   opacity: 0.5;
 }
 
+.bm-menu {
+  border-left: solid 1px rgba(160, 160, 160, 0.3);
+}
+
 .hamburger-ul {
   display: block;
   outline:none;
 
   li a h3 {
     border: 0;
-    border-top: dotted 1px rgba(160, 160, 160, 0.3);
+    border-top: solid 1px rgba(160, 160, 160, 0.3);
     margin: 1.5em 0 0 0;
     padding: 1.5em 0 0 0;
   }
