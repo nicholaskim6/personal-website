@@ -25,6 +25,10 @@
 		body.single & {
 			text-align: center;
 		}
+		
+		@include breakpoint(small) {
+			margin-top: -1rem;
+		}
 	}
 	/*
 	#footer2 {
