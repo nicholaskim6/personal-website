@@ -20,7 +20,7 @@ const SkillBar = ({ data, categories }) => {
     <div className="skillbar clearfix">
       <div className="skillbar-title" style={titleStyle}><span>{title}</span></div>
       <div className="skillbar-bar" style={barStyle} />
-      <div className="skill-bar-percent"> <b>{compentency} / 10</b></div>
+      <div className="skill-bar-percent"> <skillnum>{compentency} / 10</skillnum></div>
     </div>
   );
 };

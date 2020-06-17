@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 import Menu from 'react-burger-menu/lib/menus/slide';
 
-import routes from '../../data/routes';
+import routes from '../../data/routesHamburger';
 
 const Hamburger = () => {
   const [open, setOpen] = useState(false);
