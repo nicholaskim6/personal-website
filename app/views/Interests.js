@@ -20,7 +20,7 @@ const Interests = () => (
     <article className="post" id="generalmd">
       <header>
         <div className="title">
-          <h2><Link to="/interests">Interests</Link></h2>
+          <h2>Interests</h2>
         </div>
       </header>
       <ReactMarkdown

@@ -20,7 +20,7 @@ const About = () => (
     <article className="post" id="generalmd">
       <header>
         <div className="title">
-          <h2><Link to="/writings">Writings</Link></h2>
+          <h2>Writings</h2>
         </div>
       </header>
 	  <div>

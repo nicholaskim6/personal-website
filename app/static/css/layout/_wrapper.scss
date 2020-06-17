@@ -68,11 +68,18 @@
 
 		@include breakpoint(small) {
 			padding: _size(section-spacing-small);
-			display: table;
+			display: flex;
+			flex-flow: column;
 			/*flex-flow: column;*/
 		}
 
 		body.single & {
 			display: block;
+		}
+	}
+	
+	#main{
+		@include breakpoint(small) {
+		order: 1;
 		}
 	}

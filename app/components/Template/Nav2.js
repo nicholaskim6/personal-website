@@ -27,8 +27,9 @@ const Nav2 = () => (
         </li>
       </ul>
     </section>
-
-    <section id="footer2">
+	
+	{/* used to be footer2 */}
+    <section id="footer"> 
       <ul className="icons">
         {data.map((s) => (
           <li key={s.label}>
@@ -38,7 +39,7 @@ const Nav2 = () => (
           </li>
         ))}
       </ul>
-      <p className="copyright"> <Link to="/">nicholaskim</Link></p>
+      <p className="homelink"> <Link to="/">nicholaskim</Link></p>
     </section>
   </section>
 );
