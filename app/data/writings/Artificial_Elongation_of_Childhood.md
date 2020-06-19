@@ -5,7 +5,7 @@ It's interesting to question whether society is suboptimally configured from
 how it treats childhood and adolescence. There's a lengthy path that's been 
 laid out for children to go through before they are considered, treated as, and given
 the responsibility associated with adults, but is this path intrinsic and neccessary, or 
-did we come to establish it in an efficient, arbitrary way?
+did we come to establish it in an inefficient, arbitrary way?
 I don't consider myself to have thought through this extremely meticulously, so I hesitate 
 to make any strong claims, but with that being said, my tentative thoughts seem to point
 towards some genuine potential in the idea.
