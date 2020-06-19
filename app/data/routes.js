@@ -24,17 +24,24 @@ const data = [
     path: '/writings',
     label: 'Writings',
   },
-  
-  {
-    path: '/writings/test1',
-    label: '',
-  },
   {
     path: '/writings/Some_Things_Ive_Learned_from_Philosophy',
     label: '',
   },
   {
     path: '/writings/Thoughts_on_My_Music_Education',
+    label: '',
+  },
+  {
+    path: '/writings/Infinite_Regress_and_the_Problem_of_Induction',
+    label: '',
+  },
+  {
+    path: '/writings/Regress_and_Fundamental_Value',
+    label: '',
+  },
+  {
+    path: '/writings/Artificial_Elongation_of_Childhood',
     label: '',
   },
   

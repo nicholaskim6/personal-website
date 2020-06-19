@@ -27,16 +27,15 @@ const About = () => (
 	  <p>Here you can find my informal thoughts/writings on various matters.</p>
 	  <br></br>
 	  <h3>Self</h3>
-	  <p><Link to="/writings/Some_Things_Ive_Learned_From_Philosophy">Some Things I've Learned from Philosophy - (6/8/20)</Link></p>
-	  <p><Link to="/writings/Thoughts_on_My_Music_Education">Thoughts on My Music Education - (6/9/20)</Link></p>
+	  <p><Link to="/writings/Some_Things_Ive_Learned_From_Philosophy">Some Things I've Learned from Philosophy</Link></p>
+	  <p><Link to="/writings/Thoughts_on_My_Music_Education">Thoughts on My Music Education</Link></p>
 	  <br></br>
 	  <h3>Philosophy (ish)</h3>
-	  <p>Infinite Regress and the Problem of Induction</p>
-	  <p>Regress and Morality</p>
-	  <p>Egoism Collapsing into Utilitarianism</p>
+	  <p><Link to="/writings/Infinite_Regress_and_the_Problem_of_Induction">Infinite Regress and the Problem of Induction</Link></p>
+	  <p><Link to="/writings/Regress_and_Fundamental_Value">Regress and Fundamental Value</Link></p>
 	  <br></br>
 	  <h3>Random</h3>
-	  <p>Artificial Elongation of Childhood</p>
+	  <p><Link to="/writings/Artificial_Elongation_of_Childhood">Artificial Elongation of Childhood</Link></p>
 	  </div>
 	  <br></br>
 	  {/*

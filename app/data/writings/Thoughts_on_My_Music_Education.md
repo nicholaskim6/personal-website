@@ -1,6 +1,6 @@
 
 ### Thoughts on my Music Education
-
+<br>
 It wouldn't be a stretch to say that for much of my adolescence,
 my total time commitment to music (mainly violin) totalled around 
 25-30 hours a week - two or more hours of practice daily, two lessons a week (with
@@ -49,7 +49,7 @@ disappointing in some way, stirring negative emotion. Practicing was often an is
 and frustrating routine, and orchestral rehearsals are rather unentertaining to be part of.
 There were a handful of highs I could point to personally, mainly from smaller group music experiences
 and my summer with NYO, but it's a fairly sparse ratio of enjoyment:pain
-compared to many other activites. What also comes to mind is that if I hadn't had my big stroke of luck to make it into NYO, 
+compared to many other activites. What also comes to mind is that if I hadn't had a large stroke of luck to make it into NYO, 
 my enjoyment:pain ratio from violin-related experiences would look truly dismal.
 <br><br>
 Being able to play music for yourself seems like some sort of positive, but that depends on 

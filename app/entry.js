@@ -12,9 +12,13 @@ import Resume from './views/Resume';
 import Interests from './views/Interests';
 import Writings from './views/Writings';
 
-import test1 from './views/Writings/test1';
 import SomeThingsIveLearnedfromPhilosophy from './views/Writings/Some_Things_Ive_Learned_from_Philosophy';
 import ThoughtsonMyMusicEducation from './views/Writings/Thoughts_on_My_Music_Education';
+
+import InfiniteRegressandtheProblemofInduction from './views/Writings/Infinite_Regress_and_the_Problem_of_Induction';
+import RegressandFundamentalValue from './views/Writings/Regress_and_Fundamental_Value';
+
+import ArtificialElongationofChildhood from './views/Writings/Artificial_Elongation_of_Childhood';
 
 import NotFound from './views/NotFound';
 
@@ -31,9 +35,13 @@ ReactDOM.render(
       <Route path="/interests" component={Interests} />
 	  
 	  /* Writings articles */
-	  <Route path="/writings/test1" component={test1} />
 	  <Route path="/writings/Some_Things_Ive_Learned_from_Philosophy" component={SomeThingsIveLearnedfromPhilosophy} />
 	  <Route path="/writings/Thoughts_on_My_Music_Education" component={ThoughtsonMyMusicEducation} />
+	  
+	  <Route path ="/writings/Infinite_Regress_and_the_Problem_of_Induction" component={InfiniteRegressandtheProblemofInduction} />
+	  <Route path ="/writings/Regress_and_Fundamental_Value" component={RegressandFundamentalValue} />
+	  
+	  <Route path ="/writings/Artificial_Elongation_of_Childhood" component={ArtificialElongationofChildhood} />
 	  
       <Route path="/writings" component={Writings} />
       {/* Only useful in development mode */}
