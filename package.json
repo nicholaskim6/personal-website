@@ -96,12 +96,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/nicholaskim6/mywebsite.git"
+    "url": "git://github.com/nicholaskim6/personal-website.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "git://github.com/nicholaskim6/mywebsite/issues.git"
+    "url": "git://github.com/nicholaskim6/personal-website/issues.git"
   }
 }

@@ -5,9 +5,10 @@ It's interesting to question whether society is suboptimally configured from
 how it treats childhood and adolescence. There's a lengthy path that's been 
 laid out for children to go through before they are considered, treated as, and given
 the responsibility associated with adults, but is this path intrinsic and neccessary, or 
-did we come to establish it in an efficient, arbitrary way? My sense leans towards the latter.
-I don't consider myself to have rigorously argued or thought this through, so take
-my statements/tentative opinions on this with reasonable hesitation.
+did we come to establish it in an efficient, arbitrary way?
+I don't consider myself to have thought through this extremely meticulously, so I hesitate 
+to make any strong claims, but with that being said, my tentative thoughts seem to point
+towards some genuine potential in the idea.
 <br><br>
 There's a lot of things to look at that point to children/adolescents being able to 
 take on much more than we generally tend to give them. Anecdotally, I know
@@ -29,9 +30,10 @@ just that I'm expected to make that leap as a college freshman, so there's some 
 my mind that says I can't complain about the extra difficulty since it's expected of me.
 But if the extra difficulty were expected earlier, would the end result/learning be any different?
 It's an interesting question, though my sense leans towards no. People can do everything
-a year earlier with no noticeable change, and there also seem to be many examples of children
+at least one year earlier with virtually no noticeable change, and there also seem to be many examples of children
 excelling in subjects not neccesarily from some precocious "intrinsic" ability, but rather
-just having been introduced to certain advanced material at an early age.
+just having been introduced to certain advanced material at an early age. It would seem that 
+we could likely push the development chain ahead by a few years with no loss of learning.
 <br><br>
 In terms of mental maturity, I think the development one sees through childhood/adolescence 
 can be explained by a few key experiences who's effects likely aren't all that age dependent.
