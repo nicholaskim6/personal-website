@@ -44,7 +44,7 @@
 .mini-post {
   @include vendor( 'display', 'flex');
   @include vendor( 'flex-direction', 'column');
-  background: _palette(bg);
+  background: _palette(bg-alt);
 
   border: solid 1px _palette(border);
   margin: 0 0 _size(element-margin);

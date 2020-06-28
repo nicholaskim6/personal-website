@@ -37,11 +37,11 @@ associated with sentimental impressions and questions like "the meaning of exist
 the academic sense of philosophy is closer to science than it is to art, seeking to 
 understand concrete concepts at fundamental levels via rigorous logical argument.
 <br><br>
-As mentioned on my "about me" page, I found/find it stimulating to try and understand things fundamentally and to 
+I've always found it stimulating to try and understand things fundamentally and to 
 question the roots of our general assumptions. Over time, this interest naturally led me to philosophy.
 Currently, my main areas of interest are epistemology, metaphysics, and ethics. Particularly with
 regards to epistemology and ethics, there's an inescapable relevance to these topics that strongly motivates me to engage with them.
-For fun, I've included some of my tentative opinions/leanings on prominent philosophical debates below.
+I've included some of my tentative opinions/leanings on prominent philosophical debates below.
 <br><br>
 A Priori Knowledge - __No__ || Abstract Objects - __Nominalism__ || Aesthetic Value - __ill-defined__ ||
 Analytic-Synthetic Distinction - __Yes__ || Epistemic Justification - __Externalism__ || 

@@ -41,9 +41,12 @@ can be explained by a few key experiences who's effects likely aren't all that a
 "negative" experiences and failures.) For instance, the college admissions process provides 
 a novel amount of stress for high schoolers, many of who, for the first time, face 
 the loss of a huge dream when rejected. This event alone probably explains a lot of 
-what maturity difference exists between say, high school sophomores and college freshmen,
-and you could probably have this experience occur at any point in adolescence while
-resulting in a similar increase in maturity.
+what's interpreted as a maturity gap between say, high school sophomores and college freshmen.
+It may be possible that introducing that event earlier might not lead to a similarly
+"mature" reflection and development, but my sense is that you pushing this experience a few years earlier 
+would result in a similar increase in maturity. While anecdotal, there seems to be many cases I've come across,
+both personal and in reading, of younger individuals displaying mature qualities after having gone through
+significant stress, which seem to point to potential for maturity to be realized arbitrarily early in adolescents.
 <br><br>
 While the above is far from a robust argument, what makes this still worthwhile to
 discuss are the huge ramifications this could have for the greater society from say, 
