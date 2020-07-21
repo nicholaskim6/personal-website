@@ -13,7 +13,8 @@ const positions = [
     link: 'http://www.xrtrading.com/',
     daterange: 'June 2020 -  August 2020 (Remote)',
     points: [
-      'Scraped, cleaned, and modeled data with Python to predict retail interest in stock options',
+      'Scraped, cleaned, and modeled data with Python to predict unusual interest in stock options',
+	  'Analyzed trade and auction data to improve auction response logic'
     ],
   }, {
     company: 'XR Trading',

@@ -9,8 +9,8 @@ the conservatory, and county orchestra on Sundays. For most of my adolescence,
 it was my primary engagement, endeavor, and source of stress. 
 At times, I wonder if this intensity was all worthwhile compared to
 choosing a less intense/no music education. There are plenty of positives and negatives to mention, 
-but it's not immediately clear which might outweight the other. While the specific experiences I mention
-are naturally only my own, I'm curious to see what tentative conclusions might be made.
+but it's not immediately clear which might outweight the other. The perspective/experiences here 
+are naturally only my own, so any conclusions should be taken tentatively.
 <br><br>
 In terms of the more tangible positives, I'd say my musical experiences instilled value through demanding
 hard effort, meticulousness, and resilience. The hard effort is fairly 

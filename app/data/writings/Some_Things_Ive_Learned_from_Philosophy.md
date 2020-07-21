@@ -14,21 +14,20 @@ how they cultivate fundamental critical thinking skills. The lessons and takeawa
 from thinking through these problems are often widely applicable, and
 I find myself applying them quite pervasively in everyday thoughts and debates.
 <br><br>
-I'd summarize the main takeaways that 
+I'd summarize a few of the general takeaways that 
 philosophy has reinforced for me as follows.
 <br><br>
-Skepticism - In philosophy, you end up coming across many strong arguments
+Skepticism - I'd consider this the most concise and overarching takeaway. 
+In philosophy, you end up coming across many strong arguments
 for things that seem intuitively nonsensical at first. Regularly seeing that disconnect
 between my immediate reactions and what could actually conceivably be argued
 for led me towards the notion that beliefs should generally trend towards neutrality
 and that I should strongly emphasize hesitance when accepting/rejecting ideas.
 <br><br>
-Being aware of implicit assumptions - For any conclusion/claim that's not
-tautologically true (like "this car is blue because blue is by definition this color"),
-there are assumptions that must be taken as true to make the claim valid. This isn't a particularly
-groundbreaking idea, but I find it useful to keep in mind as a way to organize my thoughts when
-evaluating claims. Reminding myself that what I explicitly ought to do is
-reason through each premise's neccessary assumptions gives me a clear framework.
+The importance of understanding things at generalizable levels - A lot of our understanding, when not particularly attended to,
+tends to be "patch-worky"/ad-hoc. We develop understanding of specific cases and fit unique mental frameworks around each case,
+but more often than not, there are unifying threads that can simplify as well as clarify understanding. Finding
+and understanding those threads is key for being able to efficiently approach new cases and scenarios.
 <br><br>
 Using limiting cases/Analogies - A quick way to stress test almost any premise/idea is 
 to see how they hold up under limiting parameter values or scenarios. In addition to being able to challenge some 
@@ -42,7 +41,7 @@ The importance of semantics - It's exceedingly important to carefully define the
 terms in any discussion, and the more I pay attention to this, the more I see that it's
 a surprisingly common source of frustration/confusion in discussions. The same word can be interpreted wildly differently by various people, and 
 many debates seem to actually be two people agreeing who don't realize they agree because of semantic confusion. Proactively ironing out any potential
-differences in interpretation during a discussion eases a lot of needless headache and derailment.
+differences in interpretation during a discussion eases a lot of needless derailment.
 <br><br>
 
  
