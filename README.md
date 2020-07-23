@@ -1,5 +1,5 @@
 ### Personal Website
-Personal website, built off of https://github.com/mldangelo/personal-site.
+Personal website at nicholaskim.me, built off of https://github.com/mldangelo/personal-site.
 
 
 # On making this
