@@ -7,6 +7,8 @@ const Degree = ({ data }) => (
 	  <h3 className="school"><b>{data.school}</b> - {data.year}</h3>
       <h4 className="degree"> B.S.E. {data.degree}</h4>
 	  <h4 className="degree">{data.minor}</h4>
+	  <p></p>
+	  <h4 className="degree">{data.thesis}</h4>
 	  <h4 className="activities">{data.activities}</h4>
 	  <br></br>
 	  </header>

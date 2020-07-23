@@ -25,7 +25,9 @@ I was a member of the [National Youth Orchestra of the USA](https://www.carnegie
 , which I consider to be among my most memorable experiences.
 <br><br>
 From time to time, I also experiment
-with composition. Below is a recent original work of mine, inspired by orchestral film scores.
+with composition across a wide variety of styles. Below are two recent works of mine - 1) A "synth-jazz" style piece (work in progress) 2) A film-score style orchestral piece
+<br><br>
+<iframe width="95%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/862333930%3Fsecret_token%3Ds-vMFQAtvTvgY&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"></div>
 <br><br>
 <iframe width="95%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/839655961%3Fsecret_token%3Ds-FFfpphR9RQ6&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"></div>
 <br><br>

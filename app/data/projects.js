@@ -6,7 +6,7 @@ const data = [
     subtitle: '',
     link: 'https://github.com/nicholaskim6/reddit-ticker-scraper',
     image: 'https://raw.githubusercontent.com/nicholaskim6/personal-website/master/public/images/projects/reddit-scraper.PNG',
-    date: '2020-4',
+    date: '2020-3',
     desc: 'A flexible scraper for detailed analysis of stock ticker activity/discussion on reddit'
   },
   {
@@ -16,6 +16,14 @@ const data = [
     image: 'https://raw.githubusercontent.com/nicholaskim6/personal-website/master/public/images/projects/financial-planning.PNG',
     date: '2019-12',
     desc: 'Portfolio comparison for achieving hypothetical down payment and retirement goals'
+  },
+  {
+    title: 'Pairs Trading with ML',
+    subtitle: '',
+    link: 'https://github.com/nicholaskim6/pairs-trading-naive',
+    image: 'https://raw.githubusercontent.com/nicholaskim6/personal-website/master/public/images/projects/pairs-trading-naive.PNG',
+    date: '2019-4',
+    desc: 'Implementation/Investigation of pairs trading strategies on cointegrated stocks with ML for entry/exit.'
   },
   {
     title: 'Auto-ble',
