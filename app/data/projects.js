@@ -5,7 +5,7 @@ const data = [
     title: 'Eurodollar Pairs Trading (PCA+ML)',
     subtitle: '',
     link: 'https://github.com/nicholaskim6/pairs-trading',
-    image: 'https://raw.githubusercontent.com/nicholaskim6/personal-website/master/public/images/projects/pairs-trading-eurodollar.PNG',
+    image: 'https://raw.githubusercontent.com/nicholaskim6/personal-website/master/public/images/projects/pairs-trading-GE.PNG',
     date: '2020-4',
     desc: 'Implementation/Investigation of eurodollar futures pairs trading strategy. PCA for initial signal supplemented with ML for optimal entry/exit.'
   },
