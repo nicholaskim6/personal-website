@@ -23,7 +23,7 @@ const Nav = () => (
       <h2>About</h2>
       <p>Hi, I&apos;m Nick. 
 			I'm currently a third year student at Princeton in the <a href="https://orfe.princeton.edu/home">Operations Research and Financial Engineering</a> department
-			pursuing minors in computer science, statistics/machine learning, and philosophy.
+			pursuing minors in computer science, statistics, and philosophy.
             Among other things, I'm interested in finance, music, and gaming.
       </p>
     </section>
