@@ -8,5 +8,3 @@ with customizing my website to my liking, but turned out that there was actually
 mldangelo had made his website "flexible" insofar as you wanted to keep the exact same layouts/pages with only text modifications. Ultimately
 ended up having to develop a pretty thorough understanding of how his website really functioned to get the changes I wanted working
 properly (eg, being able to add new addresses/pages, changing the sidebar to only appear on the first page, editing formatting and wrappers, linking markdown files to page bodies, etc.).
-Also learned that there ends up being a surprising amount of time spent on seemingly inoccuous tasks, like how to eliminate 
-loading screen flickers, removing favicons, and even things like aligning text properly amidst a web of CSS dependencies.
